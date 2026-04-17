@@ -1,7 +1,7 @@
 ---
-title: MT.1201 - Ensure ASR Rules are configured correctly
+title: MT.1125 - Ensure ASR Rules are configured correctly
 description: Checks if Attack Surface Reduction (ASR) rules are configured with at least one rule enabled in Intune.
-slug: /tests/MT.1201
+slug: /tests/MT.1125
 sidebar_class_name: hidden
 ---
 

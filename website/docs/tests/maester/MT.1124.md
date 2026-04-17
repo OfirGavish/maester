@@ -1,7 +1,7 @@
 ---
-title: MT.1200 - Ensure LAPS Configuration Policy is properly set
+title: MT.1124 - Ensure LAPS Configuration Policy is properly set
 description: Checks if a Windows LAPS policy is configured in Intune with password backup enabled to Entra ID or Active Directory.
-slug: /tests/MT.1200
+slug: /tests/MT.1124
 sidebar_class_name: hidden
 ---
 

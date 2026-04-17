@@ -1,7 +1,7 @@
 ---
-title: MT.1203 - Ensure Managed Installer is enabled
+title: MT.1127 - Ensure Managed Installer is enabled
 description: Checks if a Managed Installer script is enabled in Intune for App Control.
-slug: /tests/MT.1203
+slug: /tests/MT.1127
 sidebar_class_name: hidden
 ---
 

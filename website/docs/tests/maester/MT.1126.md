@@ -1,7 +1,7 @@
 ---
-title: MT.1202 - Ensure App Control for Business is enabled
+title: MT.1126 - Ensure App Control for Business is enabled
 description: Checks if an App Control for Business policy is configured in Intune.
-slug: /tests/MT.1202
+slug: /tests/MT.1126
 sidebar_class_name: hidden
 ---
 
