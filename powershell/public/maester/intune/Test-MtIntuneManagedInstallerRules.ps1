@@ -1,4 +1,4 @@
-function Test-MtIntuneManagedInstallerRules {
+﻿function Test-MtIntuneManagedInstallerRules {
     <#
     .SYNOPSIS
     Checks if Managed Installer is configured in Intune.

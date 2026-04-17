@@ -1,4 +1,4 @@
-function Test-MtIntuneASRRules {
+﻿function Test-MtIntuneASRRules {
     <#
     .SYNOPSIS
     Checks if Attack Surface Reduction (ASR) rules are configured in Intune.

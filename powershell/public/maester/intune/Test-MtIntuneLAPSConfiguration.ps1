@@ -1,4 +1,4 @@
-function Test-MtIntuneLAPSConfiguration {
+﻿function Test-MtIntuneLAPSConfiguration {
     <#
     .SYNOPSIS
     Checks if a Windows LAPS Configuration policy is set in Intune.

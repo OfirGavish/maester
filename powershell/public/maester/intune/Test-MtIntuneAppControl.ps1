@@ -1,4 +1,4 @@
-function Test-MtIntuneAppControl {
+﻿function Test-MtIntuneAppControl {
     <#
     .SYNOPSIS
     Checks if an App Control for Business policy is configured in Intune.
